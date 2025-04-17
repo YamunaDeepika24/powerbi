@@ -13,7 +13,7 @@ The dataset contains anonymized employee records, sourced from [Kaggle](https://
 - Attrition status
 
 ## 📸 Screenshots
-![alt text](image.png)
+![alt text](https://github.com/YamunaDeepika24/powerbi/blob/master/HR_analytics_report/Report.png)
 
 ## 📦 Tools Used
 - Power BI
